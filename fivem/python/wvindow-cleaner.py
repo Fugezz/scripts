@@ -1,4 +1,4 @@
-# Brain afk while codind xdd
+# Brain afk while coding xdd
 import pydirectinput
 import time
 from pynput.keyboard import Key, Listener
